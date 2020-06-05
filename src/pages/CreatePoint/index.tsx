@@ -131,9 +131,6 @@ const CreatePoint = () => {
 
     return (
         <div id="page-create-point">
-            <div id="modal">
-                Hellow
-            </div>
             <header>
                 <img src={logo} alt="Ecoleta"/>
                 <Link to="/">
